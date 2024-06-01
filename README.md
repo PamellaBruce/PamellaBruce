@@ -15,7 +15,7 @@
 
 - 📫 Você pode me encontrar em **pamellabruce.contact@gmail.com**
 
-- 📄 Tenho experiência da Área de Desenvolvimento de Teste de Software em Dispositivos Móveis [https://www.linkedin.com/in/pamella-da- silva-152aa9161/](https://www.linkedin.com/in/pamella-da-silva-152aa9161/)
+- 📄 Tenho experiência na [Área de Desenvolvimento de Teste de Software em Dispositivos Móveis](https://www.linkedin.com/in/pamella-da-silva-152aa9161/)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left" >
