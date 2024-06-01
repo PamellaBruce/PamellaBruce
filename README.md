@@ -3,13 +3,13 @@
 
 <p align="left "> <img src="https://komarev.com/ghpvc/?username=pamellabruce&label=Profile%20views&color=0e75b6&style=flat" alt="pamellabruce" /> </p>
 
-- 🔭 Atualmente estou em busca de oportunidades na área de [Analista e Desenvolvimento de Teste](https://drive.google.com/drive/folders/1l18UgN9JE4eJZyWVd4zMMgt560sQkwnU?usp=drive_link)
+- 🔭 Estou em busca de oportunidades na área de [Analista e Desenvolvimento de Teste](https://drive.google.com/drive/folders/1l18UgN9JE4eJZyWVd4zMMgt560sQkwnU?usp=drive_link)
 
-- 🌱 Atualmente estou estudando **Desenvolvimento Web, Desenvolvimento Mobile e IA**
+- 🌱 Atualmente estou estudando *Desenvolvimento Mobile**
 
-- 👯 Trabalhando em meu [Desenvolvimento profissional](https://www.linkedin.com/in/pamella-da-silva-152aa9161/)
+- 👯 focada em meu [Desenvolvimento profissional](https://www.linkedin.com/in/pamella-da-silva-152aa9161/)
 
-- 👨‍💻 Todos os meus projetos [https://drive.google.com/drive/folders/ 1Eq7-qLSbb7qm6pjw5SnyyxlXrV6hvjNd?usp=drive_link](https://drive.google.com/drive/folders/1Eq7-qLSbb7qm6pjw5SnyyxlXrV6hvjNd?usp=drive_link)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://drive.google.com/drive/folders/ 1Eq7-qLSbb7qm6pjw5SnyyxlXrV6hvjNd?usp=drive_link](https://drive.google.com/drive/folders/1Eq7-qLSbb7qm6pjw5SnyyxlXrV6hvjNd?usp=drive_link)
 
 - 💬 Me pergunte sobre **Teste de Software, Metodologias Ágeis e Análise de Testes**
 
