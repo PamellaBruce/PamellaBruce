@@ -5,7 +5,7 @@
 
 - 🔭 Estou em busca de oportunidades na área de [Analista e Desenvolvimento de Teste](https://drive.google.com/drive/folders/1l18UgN9JE4eJZyWVd4zMMgt560sQkwnU?usp=drive_link)
 
-- 🌱 Atualmente estou estudando *Desenvolvimento Mobile**
+- 🌱 Atualmente estou estudando **Desenvolvimento Mobile**
 
 - 👯 focada em meu [Desenvolvimento profissional](https://www.linkedin.com/in/pamella-da-silva-152aa9161/)
 
